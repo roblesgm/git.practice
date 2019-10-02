@@ -21,3 +21,9 @@ Three step commiting process
 * Add code changes to the stage
     git add file_that_changed.rb
 * Commit changes -m "My commit message"
+
+Show history
+------------
+
+    git log
+    
