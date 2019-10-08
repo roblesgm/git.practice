@@ -27,4 +27,21 @@ Show history
 
     git log
 
----------------------------
+---------------------------------------------
+Uploading to github
+
+    git push after doing the commit
+
+Uploading to a computer the doesnt have your code saved on it
+---------------------------------------------
+login to the Github account
+make a new repository that can go into the URL no spaces
+must be HTTPS
+
+on the command line copy the git links above SHIFT INSERT
+
+Updating to a computer that already has code
+--------------------------------------------
+
+    git pull 
+--------------------------------------------
